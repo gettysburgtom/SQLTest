@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id</Data></Cell>
+			<Cell><Data ss:Type="String">name</Data></Cell>
+			<Cell><Data ss:Type="String">timezone</Data></Cell>
+			<Cell><Data ss:Type="String">poc_name</Data></Cell>
+			<Cell><Data ss:Type="String">poc_email</Data></Cell>
+			<Cell><Data ss:Type="String">am_name</Data></Cell>
+			<Cell><Data ss:Type="String">am_email</Data></Cell>
+			<Cell><Data ss:Type="String">auto_generate_strategies</Data></Cell>
+			<Cell><Data ss:Type="String">marketplace</Data></Cell>
+			<Cell><Data ss:Type="String">us</Data></Cell>
+			<Cell><Data ss:Type="String">international</Data></Cell>
+			<Cell><Data ss:Type="String">is_sensitive</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 1</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 1</Data></Cell>
+			<Cell><Data ss:Type="String">poc1@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 1</Data></Cell>
+			<Cell><Data ss:Type="String">am1@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 2</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 2</Data></Cell>
+			<Cell><Data ss:Type="String">poc2@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 2</Data></Cell>
+			<Cell><Data ss:Type="String">am2@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 3</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 3</Data></Cell>
+			<Cell><Data ss:Type="String">poc3@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 3</Data></Cell>
+			<Cell><Data ss:Type="String">am3@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 4</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 4</Data></Cell>
+			<Cell><Data ss:Type="String">poc4@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 4</Data></Cell>
+			<Cell><Data ss:Type="String">am4@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 5</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 5</Data></Cell>
+			<Cell><Data ss:Type="String">poc5@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 5</Data></Cell>
+			<Cell><Data ss:Type="String">am5@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 6</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 6</Data></Cell>
+			<Cell><Data ss:Type="String">poc6@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 6</Data></Cell>
+			<Cell><Data ss:Type="String">am6@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 7</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 7</Data></Cell>
+			<Cell><Data ss:Type="String">poc7@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 7</Data></Cell>
+			<Cell><Data ss:Type="String">am7@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">8</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 8</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 8</Data></Cell>
+			<Cell><Data ss:Type="String">poc8@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 8</Data></Cell>
+			<Cell><Data ss:Type="String">am8@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="String">Provider 9</Data></Cell>
+			<Cell><Data ss:Type="String">UTC</Data></Cell>
+			<Cell><Data ss:Type="String">POC 9</Data></Cell>
+			<Cell><Data ss:Type="String">poc9@email.com</Data></Cell>
+			<Cell><Data ss:Type="String">AM 9</Data></Cell>
+			<Cell><Data ss:Type="String">am9@email.com</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
